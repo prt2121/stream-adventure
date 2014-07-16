@@ -1,8 +1,7 @@
-[Stream-Adventure](http://nodeschool.io/#stream-adventure)
+[Stream Adventure](http://nodeschool.io/#stream-adventure)
 ================
 
-###Stream Adventure 
-###([LEARN NODE.JS WITH INTERACTIVE LESSONS](http://nodeschool.io))
+([LEARN NODE.JS WITH INTERACTIVE LESSONS](http://nodeschool.io))
 
 Learn how to compose streaming interfaces with .pipe()
 
