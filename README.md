@@ -3,7 +3,7 @@
 
 ([LEARN NODE.JS WITH INTERACTIVE LESSONS](http://nodeschool.io))
 
-Learn how to compose streaming interfaces with .pipe()
+**Learn how to compose streaming interfaces with .pipe()**
 
  
  * BEEP BOOP                                             
